@@ -1,2 +1,4 @@
-# url-helper-js-87
+# Url Helper Js 87
+
 Simple URL search params query parser in JavaScript.
+
